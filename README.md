@@ -68,7 +68,7 @@ It supports **user login**, **per-user to-do lists**, and **persistent data** us
 1. **Download or clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/localstorage-todo.git
+   git clone https://github.com/<your-username>/localstorage-to-app.git
    ```
 
 2. **Open the folder**
